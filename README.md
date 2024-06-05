@@ -17,6 +17,7 @@ This application processes a video stream in real-time using a CUDA-accelerated 
     ```
 
 2. Install Python dependencies:
+
     ```
     pip install -r requirements.txt
     ```
@@ -24,6 +25,7 @@ This application processes a video stream in real-time using a CUDA-accelerated 
 ## Usage
 
 Run the application:
+
 ```python
     python3 src/video_stream_processor.py
 ```
